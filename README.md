@@ -1,8 +1,10 @@
-# 🤖 chatbot-basic -> AI-Powered Chatbot
+# 🤖 chatbot-basic: AI-Powered Chatbot
 
 ## 📖 Overview
 
 This project showcases a basic AI chatbot leveraging the power of Google's Gemini 1.5 Flash API. What makes this project unique is that it was programmed exclusively using another AI assistant, Claude 3.5 Sonnet.
+
+🔗 **Try it out:** [Live Demo](https://chatbot-basic.streamlit.app/)
 
 ## 🌟 Features
 
@@ -10,10 +12,11 @@ This project showcases a basic AI chatbot leveraging the power of Google's Gemin
 - 🧠 Powered by Google's Gemini 1.5 Flash API
 - 🔄 Real-time streaming responses
 - 🧹 Chat history management
+- 🌐 Hosted and deployed using Streamlit
 
 ## 🛠️ Technologies Used
 
-- [Streamlit](https://streamlit.io/) for the web interface
+- [Streamlit](https://streamlit.io/) for the web interface and hosting
 - [Google GenerativeAI](https://ai.google.dev/) for the Gemini 1.5 Flash API
 - [Python](https://www.python.org/) as the programming language
 
@@ -35,10 +38,16 @@ This project showcases a basic AI chatbot leveraging the power of Google's Gemin
    ```
    export GOOGLE_API_KEY='your_api_key_here'
    ```
-4. Run the Streamlit app:
+4. Run the Streamlit app locally:
    ```
    streamlit run chatbot.py
    ```
+
+## 🌐 Deployment
+
+This project is deployed using [Streamlit's free hosting service](https://streamlit.io/cloud). Streamlit allows for easy deployment of data apps and machine learning models, making it simple to share your projects with the world.
+
+🔗 **Live Demo:** [https://chatbot-basic.streamlit.app/](https://chatbot-basic.streamlit.app/)
 
 ## 🧠 AI-Driven Development
 
@@ -61,7 +70,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 - Thanks to Google for providing the Gemini API
 - Thanks to Anthropic for Claude 3.5 Sonnet, which assisted in developing this project
-- Thanks to the Streamlit team for their excellent framework
+- Thanks to the Streamlit team for their excellent framework and hosting service
 
 ---
 
