@@ -1,4 +1,4 @@
-# 🤖 chatbot-basic -> AI-Powered Chatbot: Gemini Meets Claude
+# 🤖 chatbot-basic -> AI-Powered Chatbot
 
 ## 📖 Overview
 
