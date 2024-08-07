@@ -1,6 +1,6 @@
 protobuf==5.27.3
 streamlit==1.37.1
 # google-api-core
-google-cloud-enterpriseknowledgegraph
-google-cloud-discoveryengine>=0.11.10
+# google-cloud-enterpriseknowledgegraph
+# google-cloud-discoveryengine>=0.11.10
 google-generativeai
